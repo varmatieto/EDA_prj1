@@ -216,3 +216,5 @@ pip-log.txt
 *.jpg
 household_power_consumption.txt
 *.Rhistory
+*.Rhistory
+*.Rhistory
