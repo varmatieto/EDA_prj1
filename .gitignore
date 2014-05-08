@@ -215,3 +215,4 @@ pip-log.txt
 .mr.developer.cfg
 *.jpg
 household_power_consumption.txt
+*.Rhistory
