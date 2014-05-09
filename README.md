@@ -6,7 +6,11 @@ Task is to reconstruct the following plots below,
 all of which were constructed using the base plotting system.
 
 Solution for assignment one contains:
+
 four R plots scripts;
+
 four png figures;
+
 the data file;
-data file as .txt.
+
+a working area.
